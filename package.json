@@ -1,0 +1,25 @@
+{
+  "name": "mochachaiwn21",
+  "version": "1.0.0",
+  "description": "demo unit test mocha and chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxmaritzaa/mochaChaiWN21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxmaritzaa/mochaChaiWN21/issues"
+  },
+  "homepage": "https://github.com/mxmaritzaa/mochaChaiWN21#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-asserttype": "^1.0.5",
+    "mocha": "^8.3.2",
+    "nyc": "^15.1.0"
+  }
+}
